@@ -5,5 +5,5 @@
 #### using the GTZAN music dataset 
 #### The jupyter notebook tutorial is available for further details
 
-#### the code and notebook were improved by Nouran Ali in May,2020 it still needs more work
+### the code and notebook were improved by Nouran Ali in May,2020 it still needs more work
 
